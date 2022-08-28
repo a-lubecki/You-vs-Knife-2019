@@ -3,6 +3,8 @@
 You vs knife is a hyper-casual game released on Google Play and App Store.
 The goal is to tap a target appearing on an area with a rotating knife. The more you can tap, the more you score.
 
+![youvsknife-example (1)](https://user-images.githubusercontent.com/96313983/187087220-f429d4c0-8313-4c31-89ee-ba6bd173ff58.gif)
+
 - Android: https://play.google.com/store/apps/details?id=com.youvsknife
 - iOS: https://apps.apple.com/app/you-vs-knife/id1489040779
 
